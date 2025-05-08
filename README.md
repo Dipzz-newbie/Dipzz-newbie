@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋 What's up my dawg?</h1>
 
+![Dipzz-newbie](img/github-Dipzz.png)
+
 ###
 
 <h6 align="left">My name is Dipz and I'm a Web Dev from Indonesia 🇮🇩</h6>
