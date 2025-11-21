@@ -22,16 +22,6 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Dipzz from Here!<br><br>- 🔭 I’m working as Web Dev<br>- 📚 I'm currently learning Rust<br>- ⚡ In my free time I learn Something</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
